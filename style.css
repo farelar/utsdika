@@ -111,6 +111,7 @@ header p {
     align-items: center;
     width: 100%;
     gap: 20px;
+    overflow: hidden;
 }
 
 .selamat-datang .hero-main{
